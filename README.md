@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&text=Welcome%20everyone!&section=header&fontSize=25)
 
-![lofi](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fddnm7kmznqd71.gif)
+<img src="https://i.redd.it/ddnm7kmznqd71.gif">
 <div>
 
  <img align="right" width=200x alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png"><br>
