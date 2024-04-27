@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&text=Welcome%20everyone!&section=header&fontSize=25)
 
-![lofi](https://images.squarespace-cdn.com/content/v1/5e4c17267c099a4d625b6fcf/03e2173e-fdaf-40d0-b674-aba71d87b005/future-gaming+%281%29.gif)
+![lofi]([https://images.squarespace-cdn.com/content/v1/5e4c17267c099a4d625b6fcf/03e2173e-fdaf-40d0-b674-aba71d87b005/future-gaming+%281%29.gif](https://i.redd.it/ddnm7kmznqd71.gif))
 <div>
 
  <img align="right" width=200x alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png"><br>
