@@ -92,7 +92,7 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&text="I%20must%20not%20fear.%20Fear%20is%20the%20mind-killer"&section=footer&fontSize=22)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&text="I%20must%20not%20fear.%20Fear%20is%20the%20mind-killer."&section=footer&fontSize=22)
 </div>
    
 </div>
