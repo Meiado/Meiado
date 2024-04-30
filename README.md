@@ -8,7 +8,7 @@
  <img align="right" width=200x alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png"><br>
  
 - I'm Gabriel Meiado, but you're free to call me just Meiado<br>
- - 5th semester student of Information Systems at Unoeste; <br>
+ - 5th semester Information Systems' student at Unoeste; <br>
 -  Improving myself day by day! <br>
 - Currently studying Java Spring and NestJS 🧑🏼‍🎓<br>
 
