@@ -16,7 +16,7 @@
  
 - Always trying to learn, so I can reach personal and professional growth, also new opportunities<br>
 - Subscribed to Bootcamp Santander 2024 - Backend with Java by DIO.🚀
-- Besides programming, I like to spend my free time playing games and training <br>
+- Besides programming, I usually spend my free time playing games, watching some streaming or YouTube, and doing muscle <br>
  <br>
 </div>
 
