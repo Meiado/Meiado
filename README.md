@@ -9,9 +9,9 @@
  
 - I'm Gabriel Meiado, but you're free to call me just Meiado<br>
  - 5th semester Information Systems' student at Unoeste; <br>
--  Improving myself day by day! <br>
+- Improving myself day by day! <br>
 - Currently studying Java Spring and NestJS 🧑🏼‍🎓<br>
-- [My Resumé](https://meiado.github.io/CurriculumProject/)
+- My updated resumé [here](https://meiado.github.io/CurriculumProject/) (Meu currículo atualizado [aqui](https://meiado.github.io/CurriculumProject/))
 
 - An extra care for backend develop ⌨️<br>
  
