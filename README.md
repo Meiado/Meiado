@@ -8,9 +8,9 @@
  <img align="right" width=200x alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png"><br>
  
 - I'm Gabriel Meiado, but you're free to call me just Meiado<br>
- - 5th semester Information Systems' student at Unoeste; <br>
+ - 6th semester Information Systems' student at Unoeste; <br>
 - Improving myself day by day! <br>
-- Currently studying Java Spring and NestJS 🧑🏼‍🎓<br>
+- Currently studying ASP.NET and NestJS 🧑🏼‍🎓<br>
 - My updated resumé [here](https://meiado.github.io/CurriculumProject/) (Meu currículo atualizado [aqui](https://meiado.github.io/CurriculumProject/))
 
 - An extra care for backend develop ⌨️<br>
@@ -44,6 +44,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 - Frameworks and libraries
