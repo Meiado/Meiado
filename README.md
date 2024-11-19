@@ -90,7 +90,7 @@
 ## Contact and socials
 
 <a href="https://www.dio.me/users/gabrielmeiado"><img src="https://img.shields.io/badge/DIO%20Profile-30A3DC" target="_blank"></a>&nbsp;
-<a href = "mailto:gabrielmeiado@hotmail.com"><img src="https://img.shields.io/badge/email-0078D4?logo=microsoft-outlook&logoColor=white" target="_blank"></a>&nbsp;
+<a href = "mailto:gabrielmeiado20@gmail.com"><img src="https://img.shields.io/badge/email-0078D4?logo=microsoft-outlook&logoColor=white](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
 <a href="https://www.linkedin.com/in/gabriel-meiado-78a82320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
 <a href="https://instagram.com/meiado_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white" target="_blank"></a>
 
