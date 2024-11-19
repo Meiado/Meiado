@@ -82,7 +82,7 @@
 - Current Dev Env
   
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)&nbsp;
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?logo=Windows%2011&logoColor=white)&nbsp;
+![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)&nbsp;
 ![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
@@ -91,7 +91,7 @@
 
 <a href="https://www.dio.me/users/gabrielmeiado"><img src="https://img.shields.io/badge/DIO%20Profile-30A3DC?style=for-the-badge" target="_blank"></a>&nbsp;
 <a href = "mailto:gabrielmeiado@hotmail.com"><img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>&nbsp;
-<a href="https://www.linkedin.com/in/gabriel-meiado-78a82320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
+![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/gabriel-meiado-78a82320a/)&nbsp;
 <a href="https://instagram.com/meiado_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
