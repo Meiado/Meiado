@@ -11,7 +11,6 @@
  - 7th semester Information Systems' student at Unoeste; <br>
 - Improving myself day by day! <br>
 - Currently studying DevOps 🧑🏼‍🎓<br>
-- My updated resumé [here](https://meiado.github.io/CurriculumProject/) (Meu currículo atualizado [aqui](https://meiado.github.io/CurriculumProject/))
 
 - An extra care for backend develop ⌨️<br>
  
