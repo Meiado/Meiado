@@ -8,9 +8,9 @@
  <img align="right" width=200x alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png"><br>
  
 - I'm Gabriel Meiado, but you're free to call me just Meiado<br>
- - 6th semester Information Systems' student at Unoeste; <br>
+ - 7th semester Information Systems' student at Unoeste; <br>
 - Improving myself day by day! <br>
-- Currently studying ASP.NET and NestJS 🧑🏼‍🎓<br>
+- Currently studying DevOps 🧑🏼‍🎓<br>
 - My updated resumé [here](https://meiado.github.io/CurriculumProject/) (Meu currículo atualizado [aqui](https://meiado.github.io/CurriculumProject/))
 
 - An extra care for backend develop ⌨️<br>
