@@ -12,7 +12,7 @@
 - Improving myself day by day! <br>
 - Currently studying DevOps 🧑🏼‍🎓<br>
 
-- An extra care for backend develop ⌨️<br>
+- An extra care for backend development ⌨️<br>
  
 - Always trying to learn, so I can reach personal and professional growth, also new opportunities<br>
 - Subscribed to Bootcamp Santander 2024 - Backend with Java by DIO.🚀
