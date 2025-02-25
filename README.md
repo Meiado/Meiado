@@ -101,5 +101,5 @@
    
 </div>
 
-
+![snake gif](https://github.com/Meiado/Meiado/blob/output/github-contribution-grid-snake.svg)
 
