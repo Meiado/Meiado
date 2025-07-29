@@ -89,15 +89,15 @@
 <a href="https://www.linkedin.com/in/gabriel-meiado-78a82320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
 <a href="https://instagram.com/meiado_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white" target="_blank"></a>
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meiado&layout=compact&langs_count=7&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meiado&show_icons=true&theme=radical&include_all_commits=true" />
-</div>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&text="I%20must%20not%20fear.%20Fear%20is%20the%20mind-killer."&section=footer&fontSize=22)
 </div>
-   
+
+<div align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meiado&layout=compact&langs_count=7&theme=radical" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meiado&show_icons=true&theme=radical&include_all_commits=true" />
+</div>
+  
 </div>
 
 ![snake gif](https://github.com/Meiado/Meiado/blob/output/github-snake-dark.svg)
