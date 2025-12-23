@@ -8,14 +8,11 @@
  <img align="right" width=200x alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png"><br>
  
 - I'm Gabriel Meiado, but feel free to call me just Meiado<br>  
-- SRE Intern at Vericode, 8th semester Information Systems student at Unoeste<br>  
-- Constantly improving myself day by day! 🎯<br>  
-- Currently studying DevOps and Non-functional testing 🚀<br>  
+- Developer at Vericode, Information Systems Bachelor by Unoeste<br>  
+- Constantly improving myself day by day! 🎯<br>   
 
-- Extra care for backend development ⌨️<br>  
-
-- Always eager to learn, aiming for personal and professional growth, as well as new opportunities 🌱<br>  
-- Learning and improving my skills in Non-functional tests and monitoring 🛠️  
+- Always eager to learn, aiming for personal and professional growth 🌱<br>  
+- Learning and improving my skills day by day 🛠️  
 - Besides programming, I usually spend my free time playing games, reading and watching some streaming or YouTube<br>
  <br>
 </div>
