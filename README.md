@@ -62,7 +62,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 
 ### Testing, Quality & Tools
-![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=fff)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=Bruno&logoColor=black)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE)
