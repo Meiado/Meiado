@@ -1,17 +1,27 @@
-<div align="center">
-  <h1>Hello there, I'm Gabriel Meiado</h1>
-  <img width="550" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
-  
-  <br>
-  
-  <h3>Full Stack Developer | Java & Node.js | React & Vue.js</h3>
-  <p>
-    <em>Building scalable applications, high-performance APIs, and focusing on code quality.</em>
-  </p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&text=Welcome%20everyone!&section=header&fontSize=25)
 
-  <a href="mailto:gabrielmeiado20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/meiado/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/meiado_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<div align="center">
+  <img src="https://i.redd.it/ddnm7kmznqd71.gif" width="100%" alt="Cyberpunk City GIF">
+</div>
+
+<br>
+
+<div>
+
+  <img margin-top="35" align="right" width="200" alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png">
+
+  <div align="center">
+    <h1>Hello there, I'm Gabriel Meiado</h1>
+    <img width="400" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
+    <br><br>
+    <h3>Full Stack Developer | Java & Node.js | React & Vue.js</h3>
+    <p>
+      <em>Building scalable applications, high-performance APIs, and focusing on code quality.</em>
+    </p>s
+    <a href="mailto:gabrielmeiado20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/meiado/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
+    <a href="https://instagram.com/meiado_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  </div>
 </div>
 
 <br><br>
@@ -23,6 +33,7 @@
 - Focused on **Microservices architecture**, **RESTful APIs**, and **observability/performance**.
 - Strong background in automated testing (E2E, Performance with JMeter/Playwright) and CI/CD pipelines.
 - When I'm not coding, you can find me playing games, reading, or watching streams.
+
 ---
 
 ## Tech Stack & Tools
@@ -65,3 +76,10 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+
+<br><br>
+
+<div align="center">
+  <em>"Commit your way to the Lord; trust in him, and he will act."</em><br>
+  <strong>— Psalms 37:5</strong>
+</div>
