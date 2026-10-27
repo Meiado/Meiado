@@ -1,15 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&text=Welcome%20everyone!&section=header&fontSize=25)
-
-<div align="center">
-  <img src="https://i.redd.it/ddnm7kmznqd71.gif" width="100%" alt="Cyberpunk City GIF">
-</div>
-
-<br>
-
 <div>
-
-  <img margin-top="35" align="right" width="200" alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png">
-
   <div align="center">
     <h1>Hello there, I'm Gabriel Meiado</h1>
     <img width="400" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
@@ -37,6 +26,9 @@
 ---
 
 ## Tech Stack & Tools
+
+<img margin-top="35" align="right" width="200" alt="notebook picture" src="https://user-images.githubusercontent.com/62142146/208130941-c4543e17-d067-48ea-bec2-f0bd8765470e.png">
+
 
 ### Backend & Architecture
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJqYXZhIiBjbGFzcz0ic3ZnLWlubGluZS0tZmEgZmEtamF2YSBmYS13LTEyIiByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDM4NCA1MTIiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yNzcuNzQgMzEyLjljOS44LTYuNyAyMy40LTEyLjUgMjMuNC0xMi41cy0zOC43IDctNzcuMiAxMC4yYy00Ny4xIDMuOS05Ny43IDQuNy0xMjMuMSAxLjMtNjAuMS04IDMzLTMwLjEgMzMtMzAuMXMtMzYuMS0yLjQtODAuNiAxOWMtNTIuNSAyNS40IDEzMCAzNyAyMjQuNSAxMi4xem0tODUuNC0zMi4xYy0xOS00Mi43LTgzLjEtODAuMiAwLTE0NS44QzI5NiA1My4yIDI0Mi44NCAwIDI0Mi44NCAwYzIxLjUgODQuNS03NS42IDExMC4xLTExMC43IDE2Mi42LTIzLjkgMzUuOSAxMS43IDc0LjQgNjAuMiAxMTguMnptMTE0LjYtMTc2LjJjLjEgMC0xNzUuMiA0My44LTkxLjUgMTQwLjIgMjQuNyAyOC40LTYuNSA1NC02LjUgNTRzNjIuNy0zMi40IDMzLjktNzIuOWMtMjYuOS0zNy44LTQ3LjUtNTYuNiA2NC4xLTEyMS4zem0tNi4xIDI3MC41YTEyLjE5IDEyLjE5IDAgMCAxLTIgMi42YzEyOC4zLTMzLjcgODEuMS0xMTguOSAxOS44LTk3LjNhMTcuMzMgMTcuMzMgMCAwIDAtOC4yIDYuMyA3MC40NSA3MC40NSAwIDAgMSAxMS0zYzMxLTYuNSA3NS41IDQxLjUtMjAuNiA5MS40ek0zNDggNDM3LjRzMTQuNSAxMS45LTE1LjkgMjEuMmMtNTcuOSAxNy41LTI0MC44IDIyLjgtMjkxLjYuNy0xOC4zLTcuOSAxNi0xOSAyNi44LTIxLjMgMTEuMi0yLjQgMTcuNy0yIDE3LjctMi0yMC4zLTE0LjMtMTMxLjMgMjguMS01Ni40IDQwLjJDMjMyLjg0IDUwOS40IDQwMSA0NjEuMyAzNDggNDM3LjR6TTEyNC40NCAzOTZjLTc4LjcgMjIgNDcuOSA2Ny40IDE0OC4xIDI0LjVhMTg1Ljg5IDE4NS44OSAwIDAgMS0yOC4yLTEzLjhjLTQ0LjcgOC41LTY1LjQgOS4xLTEwNiA0LjUtMzMuNS0zLjgtMTMuOS0xNS4yLTEzLjktMTUuMnptMTc5LjggOTcuMmMtNzguNyAxNC44LTE3NS44IDEzLjEtMjMzLjMgMy42IDAtLjEgMTEuOCA5LjcgNzIuNCAxMy42IDkyLjIgNS45IDIzMy44LTMuMyAyMzcuMS00Ni45IDAgMC02LjQgMTYuNS03Ni4yIDI5Ljd6TTI2MC42NCAzNTNjLTU5LjIgMTEuNC05My41IDExLjEtMTM2LjggNi42LTMzLjUtMy41LTExLjYtMTkuNy0xMS42LTE5LjctODYuOCAyOC44IDQ4LjIgNjEuNCAxNjkuNSAyNS45YTYwLjM3IDYwLjM3IDAgMCAxLTIxLjEtMTIuOHoiPjwvcGF0aD48L3N2Zz4=)
