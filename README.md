@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&section=header&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&theme=radical&section=header&fontSize=20)
 
 <div>
   <div align="center">
@@ -78,4 +78,4 @@
   <strong>— Psalms 37:5</strong>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&section=footer&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&theme=radical&section=footer&fontSize=20)
