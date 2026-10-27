@@ -1,7 +1,7 @@
 <div>
   <div align="center">
-    <h1>Hello there, I'm Gabriel Meiado</h1>
     <img width="400" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
+    <h1>Hey everyone, I'm Gabriel Meiado</h1>
     <br><br>
     <h3>Full Stack Developer | Java & Node.js | React & Vue.js</h3>
     <p>
