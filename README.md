@@ -1,11 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&text=Welcome%20everyone!&section=header&fontSize=25)
-
-<div align="center">
-  <img src="https://i.redd.it/ddnm7kmznqd71.gif" width="100%" alt="Cyberpunk City GIF">
-</div>
-
-<br>
-
 <div align="center">
   <h1>Hello there, I'm Gabriel Meiado 👋</h1>
   <img width="250" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
