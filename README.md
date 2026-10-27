@@ -6,17 +6,19 @@
 
 <br>
 
-<div>
-  <img align="right" width="250" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
-
-  <h1>Hello there, I'm Gabriel Meiado</h1>
+<div align="center">
+  <h1>Hello there, I'm Gabriel Meiado 👋</h1>
+  <img width="250" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
+  
+  <br>
+  
   <h3>Full Stack Developer | Java & Node.js | React & Vue.js</h3>
   <p>
     <em>Building scalable applications, high-performance APIs, and focusing on code quality.</em>
   </p>
 
   <a href="mailto:gabrielmeiado20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/meiado/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/meiado/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
   <a href="https://instagram.com/meiado_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
@@ -29,7 +31,6 @@
 - Focused on **Microservices architecture**, **RESTful APIs**, and **observability/performance**.
 - Strong background in automated testing (E2E, Performance with JMeter/Playwright) and CI/CD pipelines.
 - When I'm not coding, you can find me playing games, reading, or watching streams.
-
 ---
 
 ## Tech Stack & Tools
