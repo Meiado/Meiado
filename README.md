@@ -1,8 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&section=header&fontSize=25)
+
 <div>
   <div align="center">
     <img width="400" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
-    <h1>Hey everyone, I'm Gabriel Meiado</h1>
     <br><br>
+    <h1>Hey everyone, I'm Gabriel Meiado</h1>
     <h3>Full Stack Developer | Java & Node.js | React & Vue.js</h3>
     <p>
       <em>Building scalable applications, high-performance APIs, and focusing on code quality.</em>
@@ -75,3 +77,5 @@
   <em>"Commit your way to the Lord; trust in him, and he will act."</em><br>
   <strong>— Psalms 37:5</strong>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&theme=radical&section=footer&fontSize=20)
