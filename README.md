@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hello there, I'm Gabriel Meiado 👋</h1>
-  <img width="250" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
+  <h1>Hello there, I'm Gabriel Meiado</h1>
+  <img width="550" alt="Obi-Wan Hello There" src="https://media1.tenor.com/m/1VAMPydBIokAAAAd/obi-wan-kenobi-star-wars.gif">
   
   <br>
   
